@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.title {
+    font-size: 28px;
+    line-height: 1.5em;
+    margin-bottom: 32px;
+}
+
+.user__info {
+    padding: 10px 20px;
+}
